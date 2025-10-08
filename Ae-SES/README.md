@@ -1,9 +1,6 @@
 
 # 📂File
 
-<!-- readme-tree start -->
-<!-- readme-tree end -->
-
 # 🛠️Hardware
 ## Appearance
 
