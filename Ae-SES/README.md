@@ -1,7 +1,23 @@
 
-# Hardware🛠️
+# 📂File
+
+<!-- readme-tree start -->
+<!-- readme-tree end -->
+
+# 🛠️Hardware
 ## Appearance
+
+<p align="center">
+  <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Experimental_Media/blob/main/Ae-SES/Appearance/Overlook.jpg" width="45%" alt="Top view"/>
+&nbsp; &nbsp;
+  <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Experimental_Media/blob/main/Ae-SES/Appearance/Strabismus.jpg" width="45%" alt="Oblique view"/>
+</p>
+<p align="center">
+  <em>Physical view of the source-seeking vehicle</em>
+</p>
+
 ## List
+
 | Component | Model | Number | Function |
 |-----------|-------|--------|----------|
 | OpenCTR | B20 | 1 | Microcontroller |
