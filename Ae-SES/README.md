@@ -1,8 +1,28 @@
 
-# 📂File
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-BSD--2--Clause-blue.svg" alt="License: BSD-2-Clause"/>
+  </a>
+</p>
 
-# 🛠️Hardware
-## Appearance
+## 📂File
+The file tree is shown below：
+```
+└─Ae-SES
+    │  Ae-SES Physical Experiment 1.mp4          <-Experimental video
+    │  Ae-SES Physical Experiment 2.mp4          <-Experimental video
+    │  README.md
+    │
+    └─Appearance
+            Overlook.jpg                         <-Physical photo of the vehicle
+            Strabismus.jpg                       <-Physical photo of the vehicle
+```
+> **Note**  
+> - Experimental videos are available in the `.mp4` files.  
+> - Physical photos of the vehicle can be found in the `.jpg` files under [`Appearance/`](Appearance).
+
+## 🛠️Hardware
+### Appearance
 
 <p align="center">
   <img src="https://github.com/Autonomous-Source-Seeking-Team-ASST/Experimental_Media/blob/main/Ae-SES/Appearance/Overlook.jpg" width="45%" alt="Top view"/>
@@ -13,7 +33,7 @@
   <em>Physical view of the source-seeking vehicle</em>
 </p>
 
-## List
+### List
 
 | Component | Model | Number | Function |
 |-----------|-------|--------|----------|
@@ -30,3 +50,9 @@
 | Pin-header cable | 1×6P | 2 | Electrical interconnection between components |
 | Black opaque insulation tape | — | 1 | Shielding the LEDs on the light-sensitive sensor |
 | Hot glue | — | — | Mounting the stick onto the fiberglass base plate |
+
+## ⚖️Lincense
+
+```
+BSD 2-Clause License
+```
