@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD--3--Clause-blue.svg" alt="License: BSD-2-Clause"/>
+    <img src="https://img.shields.io/badge/License-BSD--3--Clause-blue.svg" alt="License: BSD-3-Clause"/>
   </a>
 </p>
 
@@ -19,6 +19,7 @@ The file tree is shown below：
 └─Ae-SES
     │  Ae-SES Physical Experiment 1.mp4          <-Experimental video
     │  Ae-SES Physical Experiment 2.mp4          <-Experimental video
+    │  LICENSE
     │  README.md
     │
     └─Appearance
@@ -62,5 +63,5 @@ The file tree is shown below：
 ## ⚖️Lincense
 
 ```
-BSD 2-Clause License
+BSD 3-Clause License
 ```
