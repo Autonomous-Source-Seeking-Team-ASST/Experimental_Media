@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/Embedded%20System-STM32-Green" alt="License: BSD-2-Clause"/>
-    <img src="https://img.shields.io/badge/Stochastic%20Extremum%20Seeking-Ae--SES-Green" alt="License: BSD-2-Clause"/>
-    <img src="https://img.shields.io/badge/Robotics-TWDDR-Green" alt="License: BSD-2-Clause"/>
+    <img src="https://img.shields.io/badge/Stochastic%20Extremum%20Seeking-Ae--SES-Green"/>
+    <img src="https://img.shields.io/badge/Robotics-TWDDR-Green"/>
+    <img src="https://img.shields.io/badge/Embedded%20System-STM32-Green"/>
   </a>
 </p>
 
