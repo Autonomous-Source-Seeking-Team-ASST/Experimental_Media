@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD--2--Clause-blue.svg" alt="License: BSD-2-Clause"/>
+    <img src="https://img.shields.io/badge/License-BSD--3--Clause-blue.svg" alt="License: BSD-2-Clause"/>
   </a>
 </p>
 
